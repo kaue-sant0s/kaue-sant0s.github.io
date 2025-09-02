@@ -4,7 +4,7 @@
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/e2c8ccdf-922c-4278-a08c-1807fdca9b52" />
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/c9a72359-e073-4afb-928d-e93fb24810f6" />
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/9d3a1fcf-0ca3-42ea-ad23-ed43a2d8a964" />
-  <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/9c95313d-8a0c-476e-9bf9-01bced4e29a6" />
+  <img href='https://www.figma.com/design/mUTBOLECLielsq8GWxXT0G/ASTRA-PROJECT?node-id=1-540&t=tE5I7aMd0x5GccrH-1' target="_blank" rel="noopener noreferrer" width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/9c95313d-8a0c-476e-9bf9-01bced4e29a6" />
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/eb5b79ae-3dd3-43cc-a30b-920b5d5782d8" />
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/f4b8e4a1-69d1-46df-aa63-5c93a59f8e59" />
   <img width="100%" height="auto" alt="Image" src="https://github.com/user-attachments/assets/1ed7e8e0-b89a-48ad-8b57-a5e58e4909e1" />
